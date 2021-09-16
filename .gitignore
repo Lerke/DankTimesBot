@@ -71,3 +71,5 @@ typings/
 
 *.js
 .vscode/settings.json
+data/items-chats-data.json
+data/items-prototypes.json
